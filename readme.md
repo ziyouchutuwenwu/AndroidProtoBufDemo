@@ -1,0 +1,1 @@
+gradle build 以后，手工复制src/generated/debug/javalite下的文件到bb.aa.androidprotobufdemo里面
